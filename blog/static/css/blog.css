@@ -1,14 +1,15 @@
 h1 a {
-    color: #FCA205;
-    font-family: 'Lobster';
+    color: nevy;
+    font-family: 'Quicksand', sans-serif;
 }
 
 body{
     padding-left: 15px;
+    padding-right: 15px;
 }
 
 .page-header {
-    background-color: #ff9400;
+    background-color: navy;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -24,11 +25,12 @@ body{
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Quicksand';
 }
 
 .date {
     color: #828282;
+    opacity: 50%;
 }
 
 .save {
